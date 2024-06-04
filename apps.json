@@ -1,8 +1,8 @@
 [
   {
-    "AMLyumixRPC": "Apple Music RPC"
+    "srvc": "Apple Music RPC"
   },
   {
-    "SpotifyRPC": "Spotify RPC"
+    "srvc": "Spotify RPC"
   }
 ]
