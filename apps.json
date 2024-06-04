@@ -1,4 +1,4 @@
-{
-    "AMLyumixRPC": "Apple Music RPC",
-    "SpotifyRPC": "Spotify RPC"
-}
+[
+    {"AMLyumixRPC": "Apple Music RPC"},
+    {"SpotifyRPC": "Spotify RPC"}
+]
