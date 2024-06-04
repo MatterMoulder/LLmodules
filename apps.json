@@ -1,8 +1,12 @@
 [
   {
-    "srvc": "Apple Music RPC"
+    "srvc": "AMLyumixRPC",
+    "name": "Apple Music RPC",
+    "link": "https://raw.githubusercontent.com/MatterMoulder/LLmodules/main/AMLyumixRPC.dll"
   },
   {
-    "srvc": "Spotify RPC"
+    "srvc": "Spotify RPC".
+    "name": "Apple Music RPC",
+    "link": "https://raw.githubusercontent.com/MatterMoulder/LLmodules/main/AMLyumixRPC.dll"
   }
 ]
