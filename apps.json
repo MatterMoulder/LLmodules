@@ -3,5 +3,55 @@
     "srvc": "AMLyumixRPC",
     "name": "Apple Music RPC",
     "link": "https://raw.githubusercontent.com/MatterMoulder/LLmodules/main/AMLyumixRPC.dll"
-  }
+  },
+  {
+    "srvc": "AMLyumixRPC1",
+    "name": "Apple Music RPC",
+    "link": "https://raw.githubusercontent.com/MatterMoulder/LLmodules/main/AMLyumixRPC.dll"
+  },
+  {
+    "srvc": "AMLyumixRPC12",
+    "name": "Apple Music RPC",
+    "link": "https://raw.githubusercontent.com/MatterMoulder/LLmodules/main/AMLyumixRPC.dll"
+  },
+  {
+    "srvc": "AMLyumixRPC123",
+    "name": "Apple Music RPC",
+    "link": "https://raw.githubusercontent.com/MatterMoulder/LLmodules/main/AMLyumixRPC.dll"
+  },
+  {
+    "srvc": "AMLyumixRPC11",
+    "name": "Apple Music RPC",
+    "link": "https://raw.githubusercontent.com/MatterMoulder/LLmodules/main/AMLyumixRPC.dll"
+  },
+  {
+    "srvc": "AMLyumixRPC111",
+    "name": "Apple Music RPC",
+    "link": "https://raw.githubusercontent.com/MatterMoulder/LLmodules/main/AMLyumixRPC.dll"
+  },
+  {
+    "srvc": "AMLyumixRPC5432",
+    "name": "Apple Music RPC",
+    "link": "https://raw.githubusercontent.com/MatterMoulder/LLmodules/main/AMLyumixRPC.dll"
+  },
+  {
+    "srvc": "AMLyumixRPC5474",
+    "name": "Apple Music RPC",
+    "link": "https://raw.githubusercontent.com/MatterMoulder/LLmodules/main/AMLyumixRPC.dll"
+  },
+  {
+    "srvc": "AMLyumixRPC",
+    "name": "Apple Music RPC",
+    "link": "https://raw.githubusercontent.com/MatterMoulder/LLmodules/main/AMLyumixRPC.dll"
+  },
+  {
+    "srvc": "AMLyumixRPC",
+    "name": "Apple Music RPC",
+    "link": "https://raw.githubusercontent.com/MatterMoulder/LLmodules/main/AMLyumixRPC.dll"
+  },
+  {
+    "srvc": "AMLyumixRPC",
+    "name": "Apple Music RPC",
+    "link": "https://raw.githubusercontent.com/MatterMoulder/LLmodules/main/AMLyumixRPC.dll"
+  },
 ]
