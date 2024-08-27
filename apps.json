@@ -2,6 +2,7 @@
   {
     "srvc": "AMLyumixRPC",
     "name": "Apple Music RPC",
+    "version": 1.0,
     "link": "https://raw.githubusercontent.com/MatterMoulder/LLmodules/main/AMLyumixRPC.dll"
   }
 ]
